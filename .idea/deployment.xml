@@ -5,7 +5,8 @@
       <paths name="dev.optimalbuilders.co.uk">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/obapp" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/public_html" local="$PROJECT_DIR$/public" web="/" />
           </mappings>
         </serverdata>
       </paths>
